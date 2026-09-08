@@ -1,0 +1,27 @@
+# Runtime outputs & sensitive data
+scripts/xhs_results_full.json
+scripts/xhs_report.html
+scripts/profiles.json
+*.xlsx
+*.xls
+*.csv
+
+# Batch outputs / backups
+batch_output/
+*_backup.json
+*.old
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
