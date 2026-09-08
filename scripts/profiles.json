@@ -1,0 +1,14 @@
+[
+  {
+    "nickname": "示例账号A",
+    "xhs_id": "example_001",
+    "url": "https://www.xiaohongshu.com/user/profile/xxxxxxxx0000000000000000?xsec_token=YOUR_TOKEN_HERE",
+    "status": "正常"
+  },
+  {
+    "nickname": "示例账号B",
+    "xhs_id": "example_002",
+    "url": "https://www.xiaohongshu.com/user/profile/yyyyyyyy0000000000000000?xsec_token=YOUR_TOKEN_HERE",
+    "status": "0产"
+  }
+]
